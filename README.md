@@ -26,6 +26,21 @@ By: I.B Janar Dana
 |[What's a Netcat](./General%20skills/What's%20a%20netcat/readme.md) |   100  | Solved |
 
 
+ - Forensics
+
+ | Challenges                                                        | Points | Status |
+ |-------------------------------------------------------------------|--------|--------|
+ |[Matryoshka Doll](./Forensics/Matryoshka%20doll/readme.md)         |   30   | Solved |
+ |[Lookey Here](./Forensics/Lookey%20here/readme.md)                 |   100  | Solved |
+ |[TFTP](./Forensics/Trivial%20flag%20transfer%20protocol/readme.md) |   90   | Solved |
+
+
+ - Cryptography
+
+ | Challenges                                  | Points | Status |
+ |---------------------------------------------|--------|--------|
+ | [Mod 26](./Cryptography/Mod%2026/readme.md) |   10   | Solved |
+
 
 Website
 ---
