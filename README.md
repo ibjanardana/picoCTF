@@ -1,5 +1,7 @@
 # picoCTF
-Capture The Flag Exercise
+Capture The Flag Writeup
+by: ibjanardana
+
 
 - Web Exploitation
 
