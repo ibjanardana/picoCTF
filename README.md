@@ -6,13 +6,14 @@ By: I.B Janar Dana
 
 - Web Exploitation
 
-| Challenge                                              | Points | Status |
-|--------------------------------------------------------|--------|--------|
-|[Cookies](./Web%20exploitation/Cookies/readme.md)       |   40   | Solved |
-|[Get aHead](./Web%20exploitation/Get%20ahead/readme.md) |   20   | Solved |
-|[Insp3ctor](./Web%20exploitation/Insp3ctor/readme.md)   |   50   | Solved |
-|[Login](./Web%20exploitation/Login/readme.md)           |   100  | Solved |
-|[Logon](./Web%20exploitation/Logon/readme.md)           |   100  | Solved |
+| Challenge                                                         | Points | Status |
+|-------------------------------------------------------------------|--------|--------|
+|[Cookies](./Web%20exploitation/Cookies/readme.md)                  |   40   | Solved |
+|[Get aHead](./Web%20exploitation/Get%20ahead/readme.md)            |   20   | Solved |
+|[Insp3ctor](./Web%20exploitation/Insp3ctor/readme.md)              |   50   | Solved |
+|[Login](./Web%20exploitation/Login/readme.md)                      |   100  | Solved |
+|[Logon](./Web%20exploitation/Logon/readme.md)                      |   100  | Solved |
+|[Local Authority](./Web%20exploitation/Local%20authority/readme.md)|   100  | Solved |
 
 
 - General Skills
