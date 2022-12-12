@@ -1,6 +1,6 @@
 # picoCTF
 Capture The Flag Writeup\
-by: ibjanardana
+By: I.B Janar Dana
 <br />
 <br />
 
