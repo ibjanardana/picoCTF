@@ -1,13 +1,13 @@
 # picoCTF
 Capture The Flag Writeup\
-by: ibjanardana
+by: ibjanardana\
 
 
-- Web Exploitation
+- Web Exploitation\
 
 | Challenge                                        | Points | Status |
 |--------------------------------------------------|--------|--------|
-|[Cookies](./Web%20exploitation/Cookies/readme.md) |   40   | Solved |
+|[Cookies](./Web%20exploitation/Cookies/readme.md) |    40  | Solved |
 |                                                  |        |        |
 |                                                  |        |        |
 
