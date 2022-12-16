@@ -15,7 +15,7 @@ Answer:
 
 2. and analyze the stream with analyze > follow > tcp stream and u got text this
 
-[result tcp stream](/Assets/wireshark%20do.PNG)
+![result tcp stream](/Assets/wireshark%20do.PNG)
 
 3. goto decrypt the ROT13 tools, im prefer online tools [tools](https://rot13.com/) and decrypt "cvpbPGS{c33xno00_1_f33_h_qrnqorrs}"
 
