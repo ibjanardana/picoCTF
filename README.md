@@ -28,18 +28,20 @@ By: I.B Janar Dana
 
  - Forensics
 
- | Challenges                                                        | Points | Status |
- |-------------------------------------------------------------------|--------|--------|
- |[Matryoshka Doll](./Forensics/Matryoshka%20doll/readme.md)         |   30   | Solved |
- |[Lookey Here](./Forensics/Lookey%20here/readme.md)                 |   100  | Solved |
- |[TFTP](./Forensics/Trivial%20flag%20transfer%20protocol/readme.md) |   90   | Solved |
+ | Challenges                                                           | Points | Status |
+ |----------------------------------------------------------------------|--------|--------|
+ |[Matryoshka Doll](./Forensics/Matryoshka%20doll/readme.md)            |   30   | Solved |
+ |[Lookey Here](./Forensics/Lookey%20here/readme.md)                    |   100  | Solved |
+ |[TFTP](./Forensics/Trivial%20flag%20transfer%20protocol/readme.md)    |   90   | Solved |
+ |[Wireshark Doo Do Do](./Forensics/Wireshark%20doo%20do%20do/readme.md)|   50   | Solved |
 
 
  - Cryptography
 
  | Challenges                                  | Points | Status |
  |---------------------------------------------|--------|--------|
- | [Mod 26](./Cryptography/Mod%2026/readme.md) |   10   | Solved |
+ |[Mod 26](./Cryptography/Mod%2026/readme.md)  |   10   | Solved |
+ |[13](./Cryptography/13/readme.md)            |   100  | Solved |
 
 
 Website
