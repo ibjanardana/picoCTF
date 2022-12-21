@@ -24,6 +24,7 @@ By: I.B Janar Dana
 |[Nice Netcat](./General%20skills/Nice%20netcat/readme.md)           |   15   | Solved |
 |[Wave a Flag](./General%20skills/Wave%20a%20flag/readme.md)         |   10   | Solved |
 |[What's a Netcat](./General%20skills/What's%20a%20netcat/readme.md) |   100  | Solved |
+|[Obedient Cat](./General%20skills/Obedient%20cat/readme.md)         |   5    | Solved |
 
 
  - Forensics
