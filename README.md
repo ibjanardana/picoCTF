@@ -36,6 +36,9 @@ By: I.B Janar Dana
  |[Lookey Here](./Forensics/Lookey%20here/readme.md)                    |   100  | Solved |
  |[TFTP](./Forensics/Trivial%20flag%20transfer%20protocol/readme.md)    |   90   | Solved |
  |[Wireshark Doo Do Do](./Forensics/Wireshark%20doo%20do%20do/readme.md)|   50   | Solved |
+ |[Information](./Forensics/Information/readme.md)                      |   10   | Solved |
+ |[Glory of the Garden](./Forensics/Glory%20of%20the%20garden/readme.md)|   50   | Solved |
+ |[Tunnel Vision](./Forensics/Tunn3l%20v1s10n/readme.md)                |   40   | Solved |
 
 
  - Cryptography
